@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IdoRoss
 - 👀 I’m interested in Algorithems And Deep Learning in Computer Vision
 - 🌱 I’m currently learning Computer Science and Deep Learning
-- 📫 How to reach me ido.ross98@gmail.com
+- 📫 Reach me at ido.ross98@gmail.com
 
 <!---
 IdoRoss/IdoRoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
